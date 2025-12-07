@@ -1,0 +1,1078 @@
+{
+  "cache": {
+    "1": {
+      "world_history": {
+        "title": "Début de la prédication de Jésus de Nazareth",
+        "date": "Vers 25-28 ap. J.-C.",
+        "description": "Selon les historiens, Jésus commence son ministère public en Galilée vers l'an 25-28, après son baptême par Jean le Baptiste. Il rassemble ses premiers disciples et commence à prêcher dans les synagogues. Cette période marque le début du mouvement qui deviendra le christianisme.",
+        "importance": "Ce moment initie l'une des religions les plus influentes de l'histoire mondiale qui façonnera la civilisation occidentale.",
+        "question": "Qui a baptisé Jésus avant le début de son ministère public?",
+        "answer": "Jean le Baptiste",
+        "source": "Claude"
+      },
+      "france_history": {
+        "title": "La Gaule sous l'administration romaine de Tibère",
+        "date": "25 ap. J.-C.",
+        "description": "Sous le règne de l'empereur Tibère, la Gaule connaît une période de romanisation intense. Les villes gauloises adoptent progressivement les institutions, l'architecture et le mode de vie romains. Lyon (Lugdunum) sert de capitale des Trois Gaules et de centre administratif majeur.",
+        "importance": "Cette période de paix romaine permet le développement économique et culturel qui transformera durablement le territoire français.",
+        "question": "Quelle ville gauloise servait de capitale des Trois Gaules sous Tibère?",
+        "answer": "Lyon (Lugdunum)",
+        "source": "Claude"
+      },
+      "egypt_history": {
+        "title": "L'Égypte sous la préfecture romaine de Vitrasius Pollio",
+        "date": "24-31 ap. J.-C.",
+        "description": "Vitrasius Pollio gouverne l'Égypte comme préfet romain durant cette période. L'Égypte, devenue province romaine depuis Auguste, fournit du blé à Rome et subit une administration stricte. Les temples égyptiens traditionnels continuent leurs activités mais sous contrôle romain.",
+        "importance": "L'Égypte devient le grenier à blé de l'Empire romain, assurant la stabilité alimentaire de la capitale.",
+        "question": "Quelle ressource essentielle l'Égypte fournissait-elle à Rome?",
+        "answer": "Le blé",
+        "source": "Claude"
+      },
+      "rome_history": {
+        "title": "Tibère se retire à Capri",
+        "date": "26 ap. J.-C.",
+        "description": "L'empereur Tibère quitte définitivement Rome pour s'installer sur l'île de Capri. Il y gouverne l'Empire à distance pendant les onze dernières années de son règne. Cette décision laisse une grande influence au préfet du prétoire Séjan à Rome.",
+        "importance": "Ce retrait marque un tournant dans la gouvernance impériale et augmente les intrigues politiques à Rome.",
+        "question": "Sur quelle île méditerranéenne Tibère s'est-il retiré en 26 ap. J.-C.?",
+        "answer": "Capri",
+        "source": "Claude"
+      },
+      "countries_capitals": {
+        "title": "L'Afghanistan et Kaboul",
+        "date": "Capitale depuis 1776",
+        "description": "Kaboul est la capitale et la plus grande ville d'Afghanistan, située dans une vallée étroite entre les montagnes de l'Hindu Kush. La ville a une histoire de plus de 3500 ans et a été un carrefour majeur de la Route de la Soie. Elle devient capitale sous le règne de Timur Shah Durrani en 1776.",
+        "importance": "Kaboul est l'une des plus anciennes villes d'Asie centrale et un carrefour historique entre l'Orient et l'Occident.",
+        "question": "Quelle est la capitale de l'Afghanistan?",
+        "answer": "Kaboul",
+        "source": "Claude"
+      },
+      "cinema": {
+        "title": "Première projection publique des frères Lumière",
+        "date": "28 décembre 1895",
+        "description": "Auguste et Louis Lumière organisent la première projection publique payante de films au Salon Indien du Grand Café à Paris. Ils présentent dix courts métrages dont La Sortie de l'usine Lumière et L'Arroseur arrosé. Cette séance marque la naissance officielle du cinéma.",
+        "importance": "Cette date est considérée comme l'acte de naissance du cinéma en tant qu'art et industrie du spectacle.",
+        "question": "En quelle année a eu lieu la première projection publique des frères Lumière?",
+        "answer": "1895",
+        "source": "Claude"
+      },
+      "literature": {
+        "title": "L'Épopée de Gilgamesh, premier récit littéraire connu",
+        "date": "Vers 2100 av. J.-C.",
+        "description": "L'Épopée de Gilgamesh est le plus ancien texte littéraire connu de l'humanité, rédigé en akkadien sur des tablettes d'argile en Mésopotamie. Elle raconte les aventures du roi d'Uruk, Gilgamesh, et sa quête de l'immortalité. Le récit contient un épisode de déluge qui inspirera le récit biblique de Noé.",
+        "importance": "Cette épopée est la première grande œuvre littéraire de l'humanité et influence toute la littérature occidentale.",
+        "question": "De quelle civilisation provient l'Épopée de Gilgamesh?",
+        "answer": "La Mésopotamie (civilisation sumérienne/akkadienne)",
+        "source": "Claude"
+      },
+      "decouvertes_scientifiques": {
+        "title": "Archimède et le principe de la poussée",
+        "date": "Vers 250 av. J.-C.",
+        "description": "Le savant grec Archimède de Syracuse découvre le principe de la poussée hydrostatique, selon lequel tout corps plongé dans un fluide subit une poussée verticale égale au poids du fluide déplacé. Selon la légende, il aurait fait cette découverte dans son bain en criant Eurêka. Ce principe fonde l'hydrostatique.",
+        "importance": "Le principe d'Archimède est fondamental en physique et explique la flottaison des navires.",
+        "question": "Quel mot Archimède aurait-il crié en découvrant son principe?",
+        "answer": "Eurêka",
+        "source": "Claude"
+      },
+      "nobel_prizes_physic": {
+        "title": "Prix Nobel de Physique 1901 - Wilhelm Röntgen",
+        "date": "10 décembre 1901",
+        "description": "Wilhelm Röntgen reçoit le tout premier Prix Nobel de Physique pour sa découverte des rayons X en 1895. Ces rayons permettent de voir à travers la matière et révolutionnent le diagnostic médical. Röntgen refuse de breveter sa découverte pour qu'elle profite à l'humanité.",
+        "importance": "Les rayons X deviennent un outil indispensable en médecine, industrie et recherche scientifique.",
+        "question": "Le nom et la nationalité du Prix Nobel de Physique de 1901 ?",
+        "answer": "Wilhelm Röntgen, Allemand",
+        "source": "Claude"
+      },
+      "nobel_prizes_chemistry": {
+        "title": "Prix Nobel de Chimie 1901 - Jacobus van 't Hoff",
+        "date": "10 décembre 1901",
+        "description": "Le chimiste néerlandais Jacobus van 't Hoff obtient le premier Prix Nobel de Chimie pour ses travaux sur les lois de la dynamique chimique et la pression osmotique. Il établit les fondements de la chimie physique moderne et de la stéréochimie. Ses découvertes expliquent le comportement des solutions.",
+        "importance": "Ses travaux fondent la chimie physique comme discipline scientifique à part entière.",
+        "question": "Le nom et la nationalité du Prix Nobel de Chimie de 1901 ?",
+        "answer": "Jacobus Henricus van 't Hoff, Néerlandais",
+        "source": "Claude"
+      },
+      "nobel_prizes_peace": {
+        "title": "Prix Nobel de la Paix 1901 - Henry Dunant et Frédéric Passy",
+        "date": "10 décembre 1901",
+        "description": "Le premier Prix Nobel de la Paix de l'histoire est décerné conjointement au Suisse Henry Dunant, fondateur de la Croix-Rouge et initiateur des Conventions de Genève, et au Français Frédéric Passy, fondateur de la Société française pour l'arbitrage entre nations.",
+        "importance": "Il établit la reconnaissance internationale des efforts humanitaires et pacifistes comme valeurs fondamentales.",
+        "question": "Le nom et la nationalité du Prix Nobel de la Paix de 1901 ?",
+        "answer": "Henry Dunant et Frédéric Passy, Suisse et Français",
+        "source": "Claude"
+      },
+      "nobel_prizes_literature": {
+        "title": "Prix Nobel de Littérature 1901 - Sully Prudhomme",
+        "date": "10 décembre 1901",
+        "description": "Le poète français Sully Prudhomme reçoit le tout premier Prix Nobel de Littérature de l'histoire. Il est récompensé pour son œuvre poétique qui allie idéalisme philosophique et perfection artistique. Ses recueils comme Stances et Poèmes marquent la poésie française du XIXe siècle.",
+        "importance": "Il établit le prestige du Prix Nobel de Littérature en tant que première personne à recevoir cette distinction.",
+        "question": "Le nom et la nationalité du Prix Nobel de Littérature de 1901 ?",
+        "answer": "Sully Prudhomme, Français",
+        "source": "Claude"
+      },
+      "music": {
+        "title": "Naissance du chant grégorien sous le pape Grégoire Ier",
+        "date": "Vers 590-604 ap. J.-C.",
+        "description": "Le pape Grégoire Ier codifie et unifie les chants liturgiques de l'Église catholique romaine, donnant naissance au chant grégorien. Ce chant monodique sacré, chanté en latin, devient la base de toute la musique occidentale médiévale. Il est caractérisé par son absence d'accompagnement instrumental.",
+        "importance": "Le chant grégorien est le fondement de la musique occidentale et influence toute la musique classique européenne.",
+        "question": "Quel pape a codifié le chant grégorien?",
+        "answer": "Grégoire Ier (Grégoire le Grand)",
+        "source": "Claude"
+      }
+    },
+    "2": {
+      "world_history": {
+        "title": "Crucifixion de Jésus de Nazareth à Jérusalem",
+        "date": "7 avril 30 ap. J.-C.",
+        "description": "Jésus de Nazareth est crucifié à Jérusalem sous l'autorité de Ponce Pilate, préfet romain de Judée, après un procès devant le Sanhédrin. Sa mort intervient durant la Pâque juive, et selon les Évangiles, il ressuscite trois jours plus tard. Cet événement marque la naissance du christianisme.",
+        "importance": "La crucifixion de Jésus est l'événement fondateur du christianisme, religion qui transformera l'histoire mondiale.",
+        "question": "Sous quel préfet romain Jésus a-t-il été crucifié?",
+        "answer": "Ponce Pilate",
+        "source": "Claude"
+      },
+      "france_history": {
+        "title": "Révolte de Julius Florus et Julius Sacrovir en Gaule",
+        "date": "21 ap. J.-C.",
+        "description": "Julius Florus chez les Trévires et Julius Sacrovir chez les Éduens mènent une révolte contre Rome, motivée par les dettes et les abus fiscaux. Cette insurrection gauloise est rapidement réprimée par les légions romaines. L'événement témoigne des tensions persistantes entre les élites gauloises et l'autorité impériale.",
+        "importance": "Cette révolte montre que la romanisation de la Gaule restait fragile et que les tensions fiscales pouvaient rallumer des révoltes.",
+        "question": "Quels deux chefs gaulois ont mené la révolte de 21 ap. J.-C.?",
+        "answer": "Julius Florus et Julius Sacrovir",
+        "source": "Claude"
+      },
+      "egypt_history": {
+        "title": "Préfecture de Gaius Galerius en Égypte romaine",
+        "date": "31 ap. J.-C.",
+        "description": "Gaius Galerius succède comme préfet d'Égypte et administre la province au nom de l'empereur Tibère. L'Égypte reste le grenier à blé de Rome et sa gestion demeure stratégique pour l'approvisionnement de l'Empire. La province continue de prospérer sous administration romaine stricte.",
+        "importance": "La continuité administrative romaine en Égypte assure la stabilité du principal fournisseur de grain de l'Empire romain.",
+        "question": "Quelle ressource faisait de l'Égypte une province stratégique pour Rome?",
+        "answer": "Le blé (céréales)",
+        "source": "Claude"
+      },
+      "rome_history": {
+        "title": "Chute et exécution de Séjan, préfet du prétoire",
+        "date": "18 octobre 31 ap. J.-C.",
+        "description": "Séjan, tout-puissant préfet du prétoire et confident de Tibère, est arrêté et exécuté après la découverte de son complot contre l'empereur. Sa chute brutale entraîne une purge sanglante de ses partisans à Rome. Cet événement marque un tournant dans le règne de Tibère.",
+        "importance": "La chute de Séjan révèle les intrigues du pouvoir impérial et inaugure une période de terreur sous Tibère.",
+        "question": "Quel poste occupait Séjan avant sa chute en 31 ap. J.-C.?",
+        "answer": "Préfet du prétoire",
+        "source": "Claude"
+      },
+      "countries_capitals": {
+        "title": "L'Albanie et Tirana",
+        "date": "Capitale depuis 1920",
+        "description": "Tirana est la capitale et la plus grande ville d'Albanie, située au centre du pays dans une plaine entourée de montagnes. Fondée en 1614 par un général ottoman, elle devient capitale en 1920 après l'indépendance du pays. La ville est connue pour ses bâtiments colorés et son architecture mixte.",
+        "importance": "Tirana symbolise l'indépendance albanaise et son développement en tant qu'État-nation moderne.",
+        "question": "Quelle est la capitale de l'Albanie?",
+        "answer": "Tirana",
+        "source": "Claude"
+      },
+      "cinema": {
+        "title": "L'Arrivée d'un train en gare de La Ciotat",
+        "date": "1896",
+        "description": "Ce court métrage des frères Lumière montre l'arrivée d'un train à vapeur en gare de La Ciotat. La légende raconte que les spectateurs, effrayés par le réalisme de l'image, auraient fui la salle. Ce film illustre la puissance émotionnelle du nouveau medium cinématographique.",
+        "importance": "Ce film est devenu mythique et symbolise l'impact révolutionnaire du cinéma sur le public de l'époque.",
+        "question": "Qui a réalisé L'Arrivée d'un train en gare de La Ciotat?",
+        "answer": "Les frères Lumière",
+        "source": "Claude"
+      },
+      "literature": {
+        "title": "L'Iliade d'Homère, fondement de la littérature occidentale",
+        "date": "Vers 800 av. J.-C.",
+        "description": "L'Iliade, attribuée au poète grec Homère, raconte un épisode de la guerre de Troie centré sur la colère d'Achille. Cette épopée de plus de 15 000 vers en hexamètres dactyliques est transmise oralement avant d'être fixée par écrit. Elle est considérée comme le premier chef-d'œuvre de la littérature occidentale.",
+        "importance": "L'Iliade fonde la littérature européenne et influence toute la tradition épique occidentale.",
+        "question": "Quel héros grec est au centre de l'Iliade?",
+        "answer": "Achille",
+        "source": "Claude"
+      },
+      "decouvertes_scientifiques": {
+        "title": "Euclide et les Éléments de géométrie",
+        "date": "Vers 300 av. J.-C.",
+        "description": "Le mathématicien grec Euclide d'Alexandrie rédige les Éléments, un traité de géométrie et d'arithmétique en treize livres. Cet ouvrage systématise les connaissances mathématiques de l'Antiquité et établit la méthode axiomatique. Les Éléments restent le manuel de référence pendant plus de deux millénaires.",
+        "importance": "Les Éléments d'Euclide sont l'ouvrage scientifique le plus influent de l'histoire après la Bible.",
+        "question": "Combien de livres comptent les Éléments d'Euclide?",
+        "answer": "Treize livres",
+        "source": "Claude"
+      },
+      "nobel_prizes_physic": {
+        "title": "Prix Nobel de Physique 1902 - Hendrik Lorentz et Pieter Zeeman",
+        "date": "10 décembre 1902",
+        "description": "Le Prix Nobel de Physique 1902 est décerné aux Néerlandais Hendrik Lorentz et Pieter Zeeman pour leurs recherches sur l'influence du magnétisme sur les phénomènes de radiation. Zeeman avait découvert que les raies spectrales se divisent en présence d'un champ magnétique, phénomène expliqué par Lorentz.",
+        "importance": "L'effet Zeeman devient un outil fondamental pour étudier la structure atomique et les champs magnétiques.",
+        "question": "Le nom et la nationalité du Prix Nobel de Physique de 1902 ?",
+        "answer": "Hendrik Lorentz et Pieter Zeeman, Néerlandais",
+        "source": "Claude"
+      },
+      "nobel_prizes_chemistry": {
+        "title": "Prix Nobel de Chimie 1902 - Hermann Emil Fischer",
+        "date": "10 décembre 1902",
+        "description": "L'Allemand Hermann Emil Fischer reçoit le Prix Nobel de Chimie pour ses travaux sur la synthèse des sucres et des purines. Il a élucidé la structure des glucides et réalisé la synthèse de nombreux sucres, dont le glucose. Ses recherches sur les purines ont jeté les bases de la compréhension des acides nucléiques.",
+        "importance": "Les travaux de Fischer sont fondamentaux pour la biochimie moderne et la compréhension du métabolisme.",
+        "question": "Le nom et la nationalité du Prix Nobel de Chimie de 1902 ?",
+        "answer": "Emil Fischer, Allemand",
+        "source": "Claude"
+      },
+      "nobel_prizes_peace": {
+        "title": "Prix Nobel de la Paix 1902 - Élie Ducommun et Charles Albert Gobat",
+        "date": "10 décembre 1902",
+        "description": "Le Prix Nobel de la Paix 1902 est partagé entre deux Suisses: Élie Ducommun et Charles Albert Gobat, tous deux dirigeants du Bureau international permanent de la Paix. Leur action a favorisé le développement du mouvement pacifiste international.",
+        "importance": "Ce prix reconnaît l'importance de l'organisation institutionnelle du mouvement pacifiste international.",
+        "question": "Le nom et la nationalité du Prix Nobel de la Paix de 1902 ?",
+        "answer": "Élie Ducommun et Charles Albert Gobat, Suisses",
+        "source": "Claude"
+      },
+      "nobel_prizes_literature": {
+        "title": "Prix Nobel de Littérature 1902 - Theodor Mommsen",
+        "date": "10 décembre 1902",
+        "description": "L'historien allemand Theodor Mommsen reçoit le Prix Nobel de Littérature pour son monumentale Histoire romaine. Premier non-romancier à obtenir cette distinction, il révolutionne l'historiographie antique. Ses travaux sur le droit romain font également autorité.",
+        "importance": "Mommsen démontre que le Nobel de Littérature peut récompenser des œuvres historiques de haute valeur littéraire.",
+        "question": "Le nom et la nationalité du Prix Nobel de Littérature de 1902 ?",
+        "answer": "Theodor Mommsen, Allemand",
+        "source": "Claude"
+      },
+      "music": {
+        "title": "Guido d'Arezzo invente la notation musicale moderne",
+        "date": "Vers 1025",
+        "description": "Le moine bénédictin italien Guido d'Arezzo développe le système de notation musicale sur portée et invente les noms des notes (ut, ré, mi, fa, sol, la) tirés de l'hymne à saint Jean-Baptiste. Cette invention révolutionne l'enseignement et la transmission de la musique en permettant de lire une mélodie sans l'avoir entendue.",
+        "importance": "L'invention de Guido d'Arezzo est le fondement de toute la notation musicale occidentale moderne.",
+        "question": "Qui a inventé les noms des notes de musique (do, ré, mi...)?",
+        "answer": "Guido d'Arezzo",
+        "source": "Claude"
+      }
+    },
+    "3": {
+      "world_history": {
+        "title": "Mort de l'empereur Tibère et avènement de Caligula",
+        "date": "16 mars 37 ap. J.-C.",
+        "description": "L'empereur Tibère meurt à Misène à l'âge de 77 ans, possiblement étouffé sur ordre de Caligula. Son petit-neveu Caius Caesar, surnommé Caligula, lui succède avec l'appui de la garde prétorienne. Le nouveau règne commence dans l'enthousiasme populaire avant de sombrer dans la tyrannie.",
+        "importance": "L'avènement de Caligula marque le début d'un règne qui deviendra synonyme de folie et de despotisme impérial.",
+        "question": "Quel empereur romain a succédé à Tibère en 37 ap. J.-C.?",
+        "answer": "Caligula",
+        "source": "Claude"
+      },
+      "france_history": {
+        "title": "Naissance de l'empereur Claude à Lyon",
+        "date": "1er août 10 av. J.-C.",
+        "description": "Tiberius Claudius Drusus naît à Lugdunum (Lyon), devenant le premier empereur romain né hors d'Italie. Considéré comme faible d'esprit par sa famille, il sera pourtant un administrateur compétent. Son règne verra la conquête de la Bretagne et d'importants travaux publics.",
+        "importance": "La naissance de Claude à Lyon symbolise l'importance de la Gaule dans l'Empire romain.",
+        "question": "Dans quelle ville gauloise l'empereur Claude est-il né?",
+        "answer": "Lyon (Lugdunum)",
+        "source": "Claude"
+      },
+      "egypt_history": {
+        "title": "Construction du phare d'Alexandrie",
+        "date": "Vers 280 av. J.-C.",
+        "description": "Le phare d'Alexandrie, l'une des Sept Merveilles du monde antique, est achevé sur l'île de Pharos sous le règne de Ptolémée II. Haut d'environ 135 mètres, il guide les navires vers le port d'Alexandrie grâce à un feu visible à des dizaines de kilomètres. Il restera debout pendant plus de 1500 ans.",
+        "importance": "Le phare d'Alexandrie est le prototype de tous les phares et donne son nom au mot pharos en plusieurs langues.",
+        "question": "Sur quelle île le phare d'Alexandrie était-il construit?",
+        "answer": "L'île de Pharos",
+        "source": "Claude"
+      },
+      "rome_history": {
+        "title": "Mort de Tibère et début du règne de Caligula",
+        "date": "16 mars 37 ap. J.-C.",
+        "description": "Tibère meurt dans sa villa de Misène après 23 ans de règne. Caligula, son petit-neveu et héritier désigné, est proclamé empereur par le Sénat. Les premiers mois de son règne sont marqués par la générosité et la popularité, avant que sa personnalité tyrannique ne se révèle.",
+        "importance": "La transition de Tibère à Caligula illustre l'instabilité potentielle du système successoral impérial romain.",
+        "question": "Combien d'années Tibère a-t-il régné?",
+        "answer": "23 ans",
+        "source": "Claude"
+      },
+      "countries_capitals": {
+        "title": "L'Algérie et Alger",
+        "date": "Capitale depuis 1962",
+        "description": "Alger est la capitale et la plus grande ville d'Algérie, située sur la côte méditerranéenne. Fondée par les Phéniciens sous le nom d'Ikosim, elle devient Alger sous la domination ottomane. Après l'indépendance en 1962, elle devient la capitale du nouvel État algérien.",
+        "importance": "Alger est le centre politique, économique et culturel du plus grand pays d'Afrique.",
+        "question": "Quelle est la capitale de l'Algérie?",
+        "answer": "Alger",
+        "source": "Claude"
+      },
+      "cinema": {
+        "title": "Le Voyage dans la Lune de Georges Méliès",
+        "date": "1er septembre 1902",
+        "description": "Georges Méliès réalise Le Voyage dans la Lune, premier film de science-fiction de l'histoire du cinéma. Inspiré de Jules Verne et H.G. Wells, le film montre des astronomes envoyés sur la Lune par un canon géant. L'image iconique de la Lune avec une fusée dans l'œil devient mondialement célèbre.",
+        "importance": "Ce film invente le cinéma de fiction et les effets spéciaux, ouvrant la voie au cinéma narratif.",
+        "question": "Qui a réalisé Le Voyage dans la Lune?",
+        "answer": "Georges Méliès",
+        "source": "Claude"
+      },
+      "literature": {
+        "title": "L'Odyssée d'Homère, récit du retour d'Ulysse",
+        "date": "Vers 800 av. J.-C.",
+        "description": "L'Odyssée, second poème épique attribué à Homère, raconte le périlleux voyage de retour d'Ulysse vers Ithaque après la guerre de Troie. Durant dix ans, le héros affronte le cyclope Polyphème, les sirènes, Circé et bien d'autres épreuves. Le récit explore les thèmes de la ruse, de la fidélité et du nostos (retour).",
+        "importance": "L'Odyssée est le modèle de tous les récits d'aventures et de voyages de la littérature occidentale.",
+        "question": "Combien d'années dure le voyage de retour d'Ulysse?",
+        "answer": "Dix ans",
+        "source": "Claude"
+      },
+      "decouvertes_scientifiques": {
+        "title": "Ératosthène calcule la circonférence de la Terre",
+        "date": "Vers 240 av. J.-C.",
+        "description": "Le savant grec Ératosthène de Cyrène, bibliothécaire d'Alexandrie, calcule la circonférence terrestre avec une précision remarquable. En mesurant l'ombre d'un bâton à Alexandrie et Syène lors du solstice d'été, il obtient environ 40 000 km, très proche de la valeur réelle. Cette méthode prouve que la Terre est sphérique.",
+        "importance": "Ce calcul est l'une des plus grandes réussites scientifiques de l'Antiquité et prouve la sphéricité de la Terre.",
+        "question": "Comment Ératosthène a-t-il calculé la circonférence de la Terre?",
+        "answer": "En mesurant l'ombre d'un bâton dans deux villes différentes",
+        "source": "Claude"
+      },
+      "nobel_prizes_physic": {
+        "title": "Prix Nobel de Physique 1903 - Henri Becquerel, Pierre et Marie Curie",
+        "date": "10 décembre 1903",
+        "description": "Henri Becquerel reçoit le Prix Nobel pour sa découverte de la radioactivité spontanée en 1896. Pierre et Marie Curie partagent l'autre moitié pour leurs recherches sur les phénomènes de radiation. Marie Curie devient ainsi la première femme à recevoir un Prix Nobel.",
+        "importance": "Cette récompense marque le début de l'ère nucléaire et consacre Marie Curie comme pionnière scientifique.",
+        "question": "Le nom et la nationalité du Prix Nobel de Physique de 1903 ?",
+        "answer": "Henri Becquerel, Pierre Curie et Marie Curie, Français et Franco-Polonaise",
+        "source": "Claude"
+      },
+      "nobel_prizes_chemistry": {
+        "title": "Prix Nobel de Chimie 1903 - Svante Arrhenius",
+        "date": "10 décembre 1903",
+        "description": "Le chimiste suédois Svante Arrhenius reçoit le Prix Nobel de Chimie pour sa théorie de la dissociation électrolytique. Ses travaux expliquent comment les molécules se séparent en ions dans les solutions. Il est également un précurseur dans l'étude de l'effet de serre.",
+        "importance": "La théorie d'Arrhenius fonde la chimie physique moderne et ouvre la voie à de nombreuses applications.",
+        "question": "Le nom et la nationalité du Prix Nobel de Chimie de 1903 ?",
+        "answer": "Svante Arrhenius, Suédois",
+        "source": "Claude"
+      },
+      "nobel_prizes_peace": {
+        "title": "Prix Nobel de la Paix 1903 - William Randal Cremer",
+        "date": "10 décembre 1903",
+        "description": "Le Britannique William Randal Cremer reçoit le Prix Nobel de la Paix pour son travail en faveur de l'arbitrage international. Ouvrier charpentier devenu député, il fonde l'Inter-Parliamentary Union et milite pour la résolution pacifique des conflits entre nations.",
+        "importance": "Cremer incarne l'engagement des classes populaires dans le mouvement pacifiste international.",
+        "question": "Le nom et la nationalité du Prix Nobel de la Paix de 1903 ?",
+        "answer": "Randal Cremer, Britannique",
+        "source": "Claude"
+      },
+      "nobel_prizes_literature": {
+        "title": "Prix Nobel de Littérature 1903 - Bjørnstjerne Bjørnson",
+        "date": "10 décembre 1903",
+        "description": "L'écrivain norvégien Bjørnstjerne Bjørnson reçoit le Prix Nobel de Littérature pour sa poésie noble et son œuvre dramatique. Auteur de l'hymne national norvégien, il est une figure majeure du romantisme scandinave. Son œuvre célèbre la nature et l'identité norvégiennes.",
+        "importance": "Bjørnson est considéré comme l'un des pères fondateurs de la littérature norvégienne moderne.",
+        "question": "Le nom et la nationalité du Prix Nobel de Littérature de 1903 ?",
+        "answer": "Bjørnstjerne Bjørnson, Norvégien",
+        "source": "Claude"
+      },
+      "music": {
+        "title": "Pérotin et l'École de Notre-Dame de Paris",
+        "date": "Vers 1200",
+        "description": "Le compositeur Pérotin, maître de chapelle à Notre-Dame de Paris, développe la polyphonie à quatre voix et porte l'Ars Antiqua à son apogée. Ses organa comme Viderunt omnes et Sederunt principes sont les premières grandes compositions polyphoniques de l'histoire. L'École de Notre-Dame révolutionne la musique médiévale.",
+        "importance": "Pérotin est le premier grand compositeur dont le nom nous soit parvenu et le père de la polyphonie occidentale.",
+        "question": "Dans quelle cathédrale Pérotin était-il maître de chapelle?",
+        "answer": "Notre-Dame de Paris",
+        "source": "Claude"
+      }
+    },
+    "4": {
+      "world_history": {
+        "title": "Assassinat de Caligula et avènement de Claude",
+        "date": "24 janvier 41 ap. J.-C.",
+        "description": "L'empereur Caligula est assassiné par des officiers de la garde prétorienne après quatre ans de règne tyrannique. Son oncle Claude, trouvé caché derrière un rideau, est proclamé empereur par les prétoriens. Claude inaugure un règne plus stable et administrativement efficace.",
+        "importance": "Cet assassinat montre le pouvoir croissant de la garde prétorienne dans la succession impériale romaine.",
+        "question": "Qui a assassiné l'empereur Caligula?",
+        "answer": "Des officiers de la garde prétorienne",
+        "source": "Claude"
+      },
+      "france_history": {
+        "title": "Conquête romaine de la Bretagne sous Claude",
+        "date": "43 ap. J.-C.",
+        "description": "L'empereur Claude lance la conquête de la Bretagne (actuelle Grande-Bretagne) avec quatre légions. Cette campagne militaire apporte gloire et légitimité à Claude. La province de Britannia restera romaine pendant près de quatre siècles.",
+        "importance": "Cette conquête étend l'Empire romain jusqu'aux îles britanniques et renforce le prestige de Claude.",
+        "question": "Quel empereur romain a conquis la Bretagne en 43?",
+        "answer": "Claude",
+        "source": "Claude"
+      },
+      "egypt_history": {
+        "title": "Fondation de la Bibliothèque d'Alexandrie",
+        "date": "Vers 288 av. J.-C.",
+        "description": "La Bibliothèque d'Alexandrie est fondée sous Ptolémée Ier ou Ptolémée II, devenant le plus grand centre de savoir du monde antique. Elle aurait contenu jusqu'à 700 000 rouleaux de papyrus. Les plus grands savants de l'Antiquité y travaillent, dont Euclide, Ératosthène et Archimède.",
+        "importance": "La Bibliothèque d'Alexandrie symbolise l'apogée du savoir antique et l'idéal de connaissance universelle.",
+        "question": "Combien de rouleaux la Bibliothèque d'Alexandrie aurait-elle contenu?",
+        "answer": "Jusqu'à 700 000 rouleaux",
+        "source": "Claude"
+      },
+      "rome_history": {
+        "title": "Claude empereur et la conquête de la Bretagne",
+        "date": "41-43 ap. J.-C.",
+        "description": "Claude, considéré comme un simple d'esprit par sa famille, se révèle un administrateur compétent. Il entreprend la conquête de la Bretagne en 43, s'y rendant personnellement pour célébrer la victoire. Son règne voit d'importants travaux publics dont le port d'Ostie.",
+        "importance": "Le règne de Claude démontre que les apparences peuvent être trompeuses et qu'un bon administrateur peut réussir.",
+        "question": "Quelle province Claude a-t-il personnellement conquise?",
+        "answer": "La Bretagne (Britannia)",
+        "source": "Claude"
+      },
+      "countries_capitals": {
+        "title": "L'Allemagne et Berlin",
+        "date": "Capitale depuis 1990 (réunification)",
+        "description": "Berlin est la capitale et la plus grande ville d'Allemagne, située au nord-est du pays sur les rives de la Spree. Divisée pendant la Guerre froide, elle redevient capitale de l'Allemagne réunifiée en 1990. La ville est un centre culturel majeur avec ses musées, son histoire et sa scène artistique.",
+        "importance": "Berlin symbolise la réunification allemande et européenne après la chute du Mur en 1989.",
+        "question": "En quelle année Berlin est-elle redevenue capitale de l'Allemagne réunifiée?",
+        "answer": "1990",
+        "source": "Claude"
+      },
+      "cinema": {
+        "title": "The Great Train Robbery d'Edwin S. Porter",
+        "date": "1903",
+        "description": "Edwin S. Porter réalise The Great Train Robbery, considéré comme le premier western et le premier film à raconter une histoire complexe avec montage narratif. Ce film de 12 minutes montre un hold-up de train avec poursuites et fusillades. La scène finale où un bandit tire vers la caméra choque les spectateurs.",
+        "importance": "Ce film établit les bases du montage narratif et inaugure le genre western au cinéma.",
+        "question": "Quel genre cinématographique The Great Train Robbery a-t-il inauguré?",
+        "answer": "Le western",
+        "source": "Claude"
+      },
+      "literature": {
+        "title": "Les Tragédies de Sophocle: Œdipe Roi",
+        "date": "Vers 429 av. J.-C.",
+        "description": "Le dramaturge grec Sophocle écrit Œdipe Roi, tragédie racontant comment Œdipe découvre qu'il a tué son père et épousé sa mère, accomplissant malgré lui la prophétie. Considérée par Aristote comme la tragédie parfaite, elle explore les thèmes du destin et de la connaissance de soi.",
+        "importance": "Œdipe Roi est le modèle de la tragédie grecque et inspire Freud pour le concept de complexe d'Œdipe.",
+        "question": "Quel dramaturge grec a écrit Œdipe Roi?",
+        "answer": "Sophocle",
+        "source": "Claude"
+      },
+      "decouvertes_scientifiques": {
+        "title": "Hipparque découvre la précession des équinoxes",
+        "date": "Vers 130 av. J.-C.",
+        "description": "L'astronome grec Hipparque de Nicée découvre la précession des équinoxes en comparant ses observations à celles de ses prédécesseurs. Il crée le premier catalogue d'étoiles avec plus de 800 entrées et invente l'astrolabe. Ses travaux établissent les fondements de l'astronomie scientifique.",
+        "importance": "Hipparque est considéré comme le plus grand astronome de l'Antiquité et le père de l'astronomie de position.",
+        "question": "Quel phénomène astronomique Hipparque a-t-il découvert?",
+        "answer": "La précession des équinoxes",
+        "source": "Claude"
+      },
+      "nobel_prizes_physic": {
+        "title": "Prix Nobel de Physique 1904 - Lord Rayleigh",
+        "date": "10 décembre 1904",
+        "description": "Le physicien britannique John William Strutt, Lord Rayleigh, reçoit le Prix Nobel pour ses recherches sur les densités des gaz et sa découverte de l'argon. Ses travaux sur la diffusion de la lumière expliquent pourquoi le ciel est bleu (diffusion Rayleigh).",
+        "importance": "Lord Rayleigh a contribué à de nombreux domaines de la physique, de l'optique à l'acoustique.",
+        "question": "Le nom et la nationalité du Prix Nobel de Physique de 1904 ?",
+        "answer": "Lord Rayleigh (John William Strutt), Britannique",
+        "source": "Claude"
+      },
+      "nobel_prizes_chemistry": {
+        "title": "Prix Nobel de Chimie 1904 - William Ramsay",
+        "date": "10 décembre 1904",
+        "description": "Le chimiste britannique William Ramsay reçoit le Prix Nobel pour sa découverte des gaz nobles: hélium, néon, argon, krypton et xénon. Ces éléments forment une nouvelle famille du tableau périodique caractérisée par leur inertie chimique.",
+        "importance": "Ramsay a complété le tableau périodique en découvrant une famille entière d'éléments.",
+        "question": "Le nom et la nationalité du Prix Nobel de Chimie de 1904 ?",
+        "answer": "William Ramsay, Britannique",
+        "source": "Claude"
+      },
+      "nobel_prizes_peace": {
+        "title": "Prix Nobel de la Paix 1904 - Institut de Droit International",
+        "date": "10 décembre 1904",
+        "description": "L'Institut de Droit International, fondé à Gand en 1873, reçoit le Prix Nobel de la Paix pour ses travaux sur le développement du droit international. Cette organisation savante contribue à codifier les règles régissant les relations entre États et la résolution pacifique des conflits.",
+        "importance": "Ce prix reconnaît l'importance du droit international dans le maintien de la paix entre les nations.",
+        "question": "Le nom et la nationalité du Prix Nobel de la Paix de 1904 ?",
+        "answer": "Institut de droit international, Organisation internationale",
+        "source": "Claude"
+      },
+      "nobel_prizes_literature": {
+        "title": "Prix Nobel de Littérature 1904 - Frédéric Mistral et José Echegaray",
+        "date": "10 décembre 1904",
+        "description": "Le prix est partagé entre le poète provençal Frédéric Mistral et le dramaturge espagnol José Echegaray. Mistral est récompensé pour son œuvre poétique en langue d'oc, notamment Mirèio, et sa défense de la culture provençale. Il fonde le Félibrige pour préserver la langue occitane.",
+        "importance": "Mistral est le seul écrivain de langue occitane à avoir reçu le Nobel de Littérature.",
+        "question": "Le nom et la nationalité du Prix Nobel de Littérature de 1904 ?",
+        "answer": "Frédéric Mistral et José Echegaray, Français et Espagnol",
+        "source": "Claude"
+      },
+      "music": {
+        "title": "Guillaume de Machaut et l'Ars Nova",
+        "date": "Vers 1360",
+        "description": "Le compositeur et poète français Guillaume de Machaut compose la Messe de Notre-Dame, première messe polyphonique complète écrite par un seul compositeur. Figure majeure de l'Ars Nova, il développe de nouvelles techniques rythmiques et harmoniques. Son œuvre marque la transition vers la musique de la Renaissance.",
+        "importance": "La Messe de Notre-Dame de Machaut est un monument de la musique médiévale et un tournant dans l'histoire de la composition.",
+        "question": "Quelle œuvre majeure Guillaume de Machaut a-t-il composée?",
+        "answer": "La Messe de Notre-Dame",
+        "source": "Claude"
+      }
+    },
+    "5": {
+      "world_history": {
+        "title": "Empoisonnement de l'empereur Claude par Agrippine",
+        "date": "13 octobre 54 ap. J.-C.",
+        "description": "L'empereur Claude meurt empoisonné, probablement par sa quatrième épouse Agrippine la Jeune qui veut assurer le trône à son fils Néron. Selon les sources antiques, le poison aurait été administré dans un plat de champignons. Néron, âgé de 16 ans, devient le cinquième empereur romain.",
+        "importance": "Cet assassinat inaugure le règne de Néron qui deviendra synonyme de tyrannie et de persécution des chrétiens.",
+        "question": "Qui aurait empoisonné l'empereur Claude?",
+        "answer": "Agrippine la Jeune, sa femme",
+        "source": "Claude"
+      },
+      "france_history": {
+        "title": "Le discours de Claude au Sénat en faveur des Gaulois",
+        "date": "48 ap. J.-C.",
+        "description": "L'empereur Claude prononce un discours au Sénat romain pour accorder aux notables gaulois le droit d'accéder aux magistratures romaines et au Sénat. Ce texte, gravé sur les Tables Claudiennes trouvées à Lyon, témoigne de l'intégration des élites gauloises dans l'Empire. C'est un moment clé de la romanisation.",
+        "importance": "Ce discours marque l'ouverture de Rome aux élites provinciales et l'intégration de la Gaule dans l'Empire.",
+        "question": "Quel droit Claude a-t-il accordé aux notables gaulois?",
+        "answer": "L'accès aux magistratures romaines et au Sénat",
+        "source": "Claude"
+      },
+      "egypt_history": {
+        "title": "Règne de Cléopâtre VII, dernière pharaonne d'Égypte",
+        "date": "51-30 av. J.-C.",
+        "description": "Cléopâtre VII monte sur le trône d'Égypte à 18 ans et règne avec ses frères puis seule. Elle s'allie successivement à Jules César et Marc Antoine pour préserver l'indépendance de son royaume. Sa mort en 30 av. J.-C. marque la fin de l'Égypte pharaonique et son annexion par Rome.",
+        "importance": "Cléopâtre est la dernière souveraine de l'Égypte indépendante et l'une des femmes les plus célèbres de l'Antiquité.",
+        "question": "Cléopâtre VII était-elle la première ou la dernière pharaonne d'Égypte?",
+        "answer": "La dernière",
+        "source": "Claude"
+      },
+      "rome_history": {
+        "title": "Avènement de Néron, dernier empereur julio-claudien",
+        "date": "13 octobre 54 ap. J.-C.",
+        "description": "Néron devient empereur à 16 ans après la mort de Claude. Les cinq premières années de son règne, guidé par Sénèque et Burrus, sont considérées comme bénéfiques. Mais le jeune empereur sombre progressivement dans la mégalomanie, l'art et les excès qui le rendront tristement célèbre.",
+        "importance": "Néron sera le dernier de la dynastie julio-claudienne, son règne se terminant par le suicide et la guerre civile.",
+        "question": "Quels deux conseillers ont guidé les premières années du règne de Néron?",
+        "answer": "Sénèque et Burrus",
+        "source": "Claude"
+      },
+      "countries_capitals": {
+        "title": "L'Andorre et Andorre-la-Vieille",
+        "date": "Capitale historique",
+        "description": "Andorre-la-Vieille est la capitale de la Principauté d'Andorre, petit État pyrénéen entre la France et l'Espagne. C'est la capitale la plus haute d'Europe à 1 023 mètres d'altitude. Co-dirigée par le président français et l'évêque d'Urgell, Andorre est une curiosité politique unique.",
+        "importance": "Andorre-la-Vieille est la plus haute capitale d'Europe et témoigne d'une organisation politique médiévale unique.",
+        "question": "Quelle est la particularité géographique d'Andorre-la-Vieille?",
+        "answer": "C'est la capitale la plus haute d'Europe",
+        "source": "Claude"
+      },
+      "cinema": {
+        "title": "Naissance d'un Nation de D.W. Griffith",
+        "date": "8 février 1915",
+        "description": "D.W. Griffith réalise Naissance d'une Nation, premier long métrage épique de l'histoire du cinéma. Ce film de 3 heures sur la Guerre de Sécession révolutionne le langage cinématographique mais est aussi critiqué pour sa glorification du Ku Klux Klan. Il établit le cinéma comme art majeur.",
+        "importance": "Malgré son contenu raciste controversé, ce film établit les techniques narratives du cinéma moderne.",
+        "question": "Qui a réalisé Naissance d'une Nation?",
+        "answer": "D.W. Griffith",
+        "source": "Claude"
+      },
+      "literature": {
+        "title": "L'Énéide de Virgile, épopée fondatrice de Rome",
+        "date": "19 av. J.-C.",
+        "description": "Le poète latin Virgile achève l'Énéide peu avant sa mort, épopée en 12 chants racontant le voyage d'Énée de Troie jusqu'en Italie où il fondera la lignée des Romains. Commandée par l'empereur Auguste, cette œuvre établit une mythologie nationale romaine. Virgile demande sans succès qu'on la brûle.",
+        "importance": "L'Énéide est le chef-d'œuvre de la littérature latine et le modèle de l'épopée occidentale jusqu'à Dante.",
+        "question": "Quel héros troyen est le personnage principal de l'Énéide?",
+        "answer": "Énée",
+        "source": "Claude"
+      },
+      "decouvertes_scientifiques": {
+        "title": "Ptolémée et le système géocentrique",
+        "date": "Vers 150 ap. J.-C.",
+        "description": "L'astronome Ptolémée d'Alexandrie publie l'Almageste, synthèse des connaissances astronomiques de l'Antiquité. Son système géocentrique, où la Terre est au centre de l'univers, dominera la pensée occidentale pendant 1400 ans. Malgré son erreur fondamentale, l'ouvrage est un chef-d'œuvre de précision.",
+        "importance": "Le système de Ptolémée sera le modèle astronomique dominant jusqu'à Copernic au XVIe siècle.",
+        "question": "Quel modèle de l'univers Ptolémée a-t-il établi?",
+        "answer": "Le système géocentrique (la Terre au centre)",
+        "source": "Claude"
+      },
+      "nobel_prizes_physic": {
+        "title": "Prix Nobel de Physique 1905 - Philipp Lenard",
+        "date": "10 décembre 1905",
+        "description": "Le physicien allemand Philipp Lenard reçoit le Prix Nobel pour ses travaux sur les rayons cathodiques. Ses expériences montrent que ces rayons peuvent traverser de fines feuilles métalliques, suggérant que l'atome est principalement constitué de vide. Ces travaux inspirent le modèle atomique de Rutherford.",
+        "importance": "Les travaux de Lenard ont contribué à la compréhension de la structure atomique.",
+        "question": "Le nom et la nationalité du Prix Nobel de Physique de 1905 ?",
+        "answer": "Philipp Lenard, Allemand",
+        "source": "Claude"
+      },
+      "nobel_prizes_chemistry": {
+        "title": "Prix Nobel de Chimie 1905 - Adolf von Baeyer",
+        "date": "10 décembre 1905",
+        "description": "Le chimiste allemand Adolf von Baeyer reçoit le Prix Nobel pour ses travaux sur les colorants organiques et les composés hydroaromatiques. Il synthétise l'indigo, colorant bleu naturel très coûteux, permettant sa production industrielle. Ses recherches fondent la chimie des colorants synthétiques.",
+        "importance": "La synthèse de l'indigo par Baeyer révolutionne l'industrie textile et la chimie organique.",
+        "question": "Le nom et la nationalité du Prix Nobel de Chimie de 1905 ?",
+        "answer": "Adolf von Baeyer, Allemand",
+        "source": "Claude"
+      },
+      "nobel_prizes_peace": {
+        "title": "Prix Nobel de la Paix 1905 - Bertha von Suttner",
+        "date": "10 décembre 1905",
+        "description": "L'écrivaine et pacifiste autrichienne Bertha von Suttner devient la première femme à recevoir le Prix Nobel de la Paix. Son roman Die Waffen nieder! (Bas les armes!) de 1889 est un manifeste pacifiste influent. Elle aurait inspiré Alfred Nobel dans la création du Prix de la Paix.",
+        "importance": "Bertha von Suttner est une pionnière du mouvement pacifiste international et la première femme Nobel de la Paix.",
+        "question": "Le nom et la nationalité du Prix Nobel de la Paix de 1905 ?",
+        "answer": "Bertha von Suttner, Autrichienne",
+        "source": "Claude"
+      },
+      "nobel_prizes_literature": {
+        "title": "Prix Nobel de Littérature 1905 - Henryk Sienkiewicz",
+        "date": "10 décembre 1905",
+        "description": "L'écrivain polonais Henryk Sienkiewicz reçoit le Prix Nobel pour son œuvre épique, notamment Quo Vadis, roman sur les premiers chrétiens sous Néron. Son œuvre contribue à maintenir l'identité polonaise alors que le pays est partagé entre trois empires.",
+        "importance": "Sienkiewicz est le premier écrivain polonais à recevoir le Nobel et un symbole de la résistance culturelle polonaise.",
+        "question": "Le nom et la nationalité du Prix Nobel de Littérature de 1905 ?",
+        "answer": "Henryk Sienkiewicz, Polonais",
+        "source": "Claude"
+      },
+      "music": {
+        "title": "Josquin des Prés, prince des musiciens de la Renaissance",
+        "date": "Vers 1450-1521",
+        "description": "Le compositeur franco-flamand Josquin des Prés est considéré comme le plus grand musicien de la Renaissance. Ses messes, motets et chansons atteignent une perfection d'écriture inégalée. Martin Luther dit de lui qu'il est le maître des notes, alors que d'autres en sont les esclaves.",
+        "importance": "Josquin est le premier compositeur européen dont la renommée dépasse son époque et influence les générations suivantes.",
+        "question": "Comment Martin Luther qualifiait-il Josquin des Prés?",
+        "answer": "Le maître des notes",
+        "source": "Claude"
+      }
+    },
+    "6": {
+      "world_history": {
+        "title": "Grand incendie de Rome sous Néron",
+        "date": "18-27 juillet 64 ap. J.-C.",
+        "description": "Un incendie dévastateur ravage Rome pendant neuf jours, détruisant dix des quatorze quartiers de la ville. Des rumeurs accusent Néron d'avoir allumé le feu pour reconstruire Rome selon ses plans. L'empereur accuse les chrétiens et lance la première grande persécution contre eux.",
+        "importance": "Cet incendie marque le début des persécutions romaines contre les chrétiens et reste associé à la légende de Néron jouant de la lyre.",
+        "question": "Qui Néron a-t-il accusé d'avoir provoqué l'incendie de Rome?",
+        "answer": "Les chrétiens",
+        "source": "Claude"
+      },
+      "france_history": {
+        "title": "Martyres de saint Pierre et saint Paul à Rome",
+        "date": "64-67 ap. J.-C.",
+        "description": "Selon la tradition chrétienne, les apôtres Pierre et Paul sont martyrisés à Rome sous le règne de Néron. Pierre aurait été crucifié la tête en bas au Vatican, Paul décapité sur la Via Ostiense. Ces martyres fondent la primauté de l'Église de Rome dans le christianisme.",
+        "importance": "Ces martyres établissent Rome comme centre de la chrétienté et la papauté comme succession de Pierre.",
+        "question": "Comment l'apôtre Pierre aurait-il été martyrisé?",
+        "answer": "Crucifié la tête en bas",
+        "source": "Claude"
+      },
+      "egypt_history": {
+        "title": "Bataille d'Actium et fin de l'Égypte ptolémaïque",
+        "date": "2 septembre 31 av. J.-C.",
+        "description": "La flotte d'Octave défait celle de Marc Antoine et Cléopâtre à la bataille navale d'Actium en Grèce. Cette victoire décisive met fin aux guerres civiles romaines et scelle le sort de l'Égypte ptolémaïque. L'année suivante, Antoine et Cléopâtre se suicident et l'Égypte devient province romaine.",
+        "importance": "Actium marque la fin de la République romaine, le début de l'Empire et l'annexion de l'Égypte par Rome.",
+        "question": "Qui a remporté la bataille d'Actium?",
+        "answer": "Octave (le futur Auguste)",
+        "source": "Claude"
+      },
+      "rome_history": {
+        "title": "Incendie de Rome et persécution des chrétiens",
+        "date": "64 ap. J.-C.",
+        "description": "Après le grand incendie, Néron lance une persécution brutale contre les chrétiens de Rome qu'il accuse d'avoir allumé le feu. Les chrétiens sont crucifiés, livrés aux bêtes ou transformés en torches humaines. C'est la première persécution officielle du christianisme par l'État romain.",
+        "importance": "Cette persécution crée les premiers martyrs chrétiens et forge l'identité de l'Église primitive.",
+        "question": "Sous quel empereur a eu lieu la première persécution des chrétiens?",
+        "answer": "Néron",
+        "source": "Claude"
+      },
+      "countries_capitals": {
+        "title": "L'Angola et Luanda",
+        "date": "Capitale depuis 1627",
+        "description": "Luanda est la capitale et la plus grande ville d'Angola, située sur la côte atlantique. Fondée par les Portugais en 1575 sous le nom de São Paulo da Assunção de Loanda, elle fut un centre majeur de la traite négrière. Depuis l'indépendance en 1975, elle est devenue une métropole en pleine expansion.",
+        "importance": "Luanda est l'une des plus anciennes villes coloniales d'Afrique subsaharienne et la capitale d'un grand pays pétrolier.",
+        "question": "Quelle est la capitale de l'Angola?",
+        "answer": "Luanda",
+        "source": "Claude"
+      },
+      "cinema": {
+        "title": "Le Cabinet du Docteur Caligari de Robert Wiene",
+        "date": "26 février 1920",
+        "description": "Robert Wiene réalise Le Cabinet du Docteur Caligari, chef-d'œuvre de l'expressionnisme allemand. Avec ses décors distordus peints et son récit de folie, le film révolutionne l'esthétique cinématographique. L'histoire d'un hypnotiseur utilisant un somnambule pour commettre des meurtres influence tout le cinéma d'horreur.",
+        "importance": "Ce film fonde le cinéma expressionniste allemand et influence le film noir et l'horreur pendant des décennies.",
+        "question": "Quel mouvement artistique Le Cabinet du Docteur Caligari représente-t-il?",
+        "answer": "L'expressionnisme allemand",
+        "source": "Claude"
+      },
+      "literature": {
+        "title": "Les Métamorphoses d'Ovide",
+        "date": "8 ap. J.-C.",
+        "description": "Le poète latin Ovide achève Les Métamorphoses, poème épique en 15 livres racontant 250 mythes gréco-romains impliquant des transformations. De la création du monde à l'apothéose de César, l'œuvre est une encyclopédie poétique de la mythologie. Ovide sera exilé peu après par Auguste.",
+        "importance": "Les Métamorphoses sont la principale source des mythes classiques pour l'art occidental depuis la Renaissance.",
+        "question": "Combien de livres comptent Les Métamorphoses d'Ovide?",
+        "answer": "15 livres",
+        "source": "Claude"
+      },
+      "decouvertes_scientifiques": {
+        "title": "Galien et la médecine antique",
+        "date": "Vers 160-200 ap. J.-C.",
+        "description": "Le médecin grec Galien de Pergame établit les bases de la médecine et de l'anatomie qui domineront pendant 1300 ans. Médecin des gladiateurs puis de l'empereur Marc Aurèle, il rédige des centaines d'ouvrages. Ses théories des humeurs et son anatomie, bien qu'imparfaites, sont la référence jusqu'à la Renaissance.",
+        "importance": "Galien est la plus grande autorité médicale de l'Antiquité et son influence persiste jusqu'au XVIe siècle.",
+        "question": "De quel empereur romain Galien était-il le médecin?",
+        "answer": "Marc Aurèle",
+        "source": "Claude"
+      },
+      "nobel_prizes_physic": {
+        "title": "Prix Nobel de Physique 1906 - J.J. Thomson",
+        "date": "10 décembre 1906",
+        "description": "Le physicien britannique Joseph John Thomson reçoit le Prix Nobel pour ses recherches sur la conduction de l'électricité dans les gaz et sa découverte de l'électron en 1897. Il démontre que les rayons cathodiques sont des particules chargées négativement, révolutionnant la compréhension de l'atome.",
+        "importance": "La découverte de l'électron par Thomson est la première identification d'une particule subatomique.",
+        "question": "Le nom et la nationalité du Prix Nobel de Physique de 1906 ?",
+        "answer": "Joseph John Thomson, Britannique",
+        "source": "Claude"
+      },
+      "nobel_prizes_chemistry": {
+        "title": "Prix Nobel de Chimie 1906 - Henri Moissan",
+        "date": "10 décembre 1906",
+        "description": "Le chimiste français Henri Moissan reçoit le Prix Nobel pour l'isolement du fluor et le développement du four électrique à arc. Il réussit en 1886 à isoler le fluor, élément extrêmement réactif que de nombreux chimistes avaient tenté en vain d'obtenir. Son four permet d'atteindre des températures de 3500°C.",
+        "importance": "Moissan isole le dernier halogène et invente un outil crucial pour la métallurgie et la synthèse chimique.",
+        "question": "Le nom et la nationalité du Prix Nobel de Chimie de 1906 ?",
+        "answer": "Henri Moissan, Français",
+        "source": "Claude"
+      },
+      "nobel_prizes_peace": {
+        "title": "Prix Nobel de la Paix 1906 - Theodore Roosevelt",
+        "date": "10 décembre 1906",
+        "description": "Le président américain Theodore Roosevelt reçoit le Prix Nobel de la Paix pour sa médiation dans la guerre russo-japonaise de 1904-1905. Il organise la conférence de Portsmouth qui aboutit au traité de paix, devenant le premier Américain à recevoir un Prix Nobel.",
+        "importance": "Roosevelt est le premier chef d'État en exercice et le premier Américain à recevoir le Nobel de la Paix.",
+        "question": "Le nom et la nationalité du Prix Nobel de la Paix de 1906 ?",
+        "answer": "Theodore Roosevelt, Américain",
+        "source": "Claude"
+      },
+      "nobel_prizes_literature": {
+        "title": "Prix Nobel de Littérature 1906 - Giosuè Carducci",
+        "date": "10 décembre 1906",
+        "description": "Le poète italien Giosuè Carducci reçoit le Prix Nobel pour son œuvre poétique qui renouvelle la poésie italienne en combinant inspiration classique et thèmes modernes. Professeur à l'Université de Bologne, il est le premier Italien à recevoir le Nobel de Littérature.",
+        "importance": "Carducci redonne au vers italien sa grandeur classique après le Risorgimento.",
+        "question": "Le nom et la nationalité du Prix Nobel de Littérature de 1906 ?",
+        "answer": "Giosuè Carducci, Italien",
+        "source": "Claude"
+      },
+      "music": {
+        "title": "Claudio Monteverdi et la naissance de l'opéra",
+        "date": "1607",
+        "description": "Le compositeur italien Claudio Monteverdi crée L'Orfeo à Mantoue, considéré comme le premier véritable opéra de l'histoire. Cette favola in musica raconte le mythe d'Orphée avec une intensité dramatique nouvelle. Monteverdi établit les conventions de l'opéra qui domineront pendant quatre siècles.",
+        "importance": "L'Orfeo de Monteverdi fonde le genre de l'opéra et marque le début de l'ère baroque en musique.",
+        "question": "Quel opéra de Monteverdi est considéré comme le premier véritable opéra?",
+        "answer": "L'Orfeo",
+        "source": "Claude"
+      }
+    },
+    "7": {
+      "world_history": {
+        "title": "Suicide de Néron et fin de la dynastie julio-claudienne",
+        "date": "9 juin 68 ap. J.-C.",
+        "description": "Abandonné par tous et déclaré ennemi public par le Sénat, Néron se suicide avec l'aide d'un affranchi en prononçant Qualis artifex pereo (Quel artiste périt avec moi). Sa mort met fin à la dynastie julio-claudienne fondée par Auguste et ouvre l'Année des quatre empereurs.",
+        "importance": "La mort de Néron clôt la première dynastie impériale romaine et ouvre une période de guerre civile.",
+        "question": "Quelles furent les dernières paroles attribuées à Néron?",
+        "answer": "Qualis artifex pereo (Quel artiste périt avec moi)",
+        "source": "Claude"
+      },
+      "france_history": {
+        "title": "Révolte de Civilis et soulèvement batave",
+        "date": "69-70 ap. J.-C.",
+        "description": "Le chef batave Julius Civilis profite de la guerre civile romaine pour soulever les Bataves et les tribus gauloises du Rhin. La révolte menace brièvement l'autorité romaine en Gaule du Nord. Elle est finalement écrasée par les légions de Vespasien et Civilis obtient un traité de paix.",
+        "importance": "Cette révolte montre la fragilité de la domination romaine sur les peuples germaniques et gaulois.",
+        "question": "Quel chef a mené la révolte batave de 69-70?",
+        "answer": "Julius Civilis",
+        "source": "Claude"
+      },
+      "egypt_history": {
+        "title": "Construction du temple de Dendérah",
+        "date": "54 av. J.-C. - 20 ap. J.-C.",
+        "description": "Le temple d'Hathor à Dendérah, commencé sous les derniers Ptolémées et achevé sous les premiers empereurs romains, est l'un des temples les mieux préservés d'Égypte. Son célèbre zodiaque circulaire, aujourd'hui au Louvre, témoigne des connaissances astronomiques des Égyptiens. Les couleurs originales sont encore visibles.",
+        "importance": "Le temple de Dendérah est un chef-d'œuvre de l'architecture ptolémaïque et un trésor archéologique.",
+        "question": "À quelle déesse le temple de Dendérah est-il dédié?",
+        "answer": "Hathor",
+        "source": "Claude"
+      },
+      "rome_history": {
+        "title": "Année des quatre empereurs",
+        "date": "68-69 ap. J.-C.",
+        "description": "Après le suicide de Néron, quatre empereurs se succèdent en un an: Galba, Othon, Vitellius et enfin Vespasien. Cette guerre civile révèle que l'empereur peut être fait ailleurs qu'à Rome. Vespasien, proclamé en Orient, fonde la dynastie des Flaviens qui stabilise l'Empire.",
+        "importance": "Cette crise révèle les faiblesses du système de succession impériale et le pouvoir des armées provinciales.",
+        "question": "Combien d'empereurs se sont succédé en 68-69 ap. J.-C.?",
+        "answer": "Quatre",
+        "source": "Claude"
+      },
+      "countries_capitals": {
+        "title": "Antigua-et-Barbuda et Saint John's",
+        "date": "Capitale depuis 1981",
+        "description": "Saint John's est la capitale et la plus grande ville d'Antigua-et-Barbuda, État insulaire des Caraïbes indépendant depuis 1981. La ville possède l'un des ports les plus sûrs des Antilles et une cathédrale baroque distinctive. Le pays vit principalement du tourisme.",
+        "importance": "Saint John's est un centre historique des Caraïbes orientales et un port stratégique depuis l'époque coloniale.",
+        "question": "Quelle est la capitale d'Antigua-et-Barbuda?",
+        "answer": "Saint John's",
+        "source": "Claude"
+      },
+      "cinema": {
+        "title": "Nosferatu de F.W. Murnau",
+        "date": "4 mars 1922",
+        "description": "F.W. Murnau réalise Nosferatu, adaptation non autorisée du Dracula de Bram Stoker. Max Schreck incarne le comte Orlok, vampire terrifiant aux doigts crochus et aux oreilles pointues. Les héritiers de Stoker obtiennent la destruction des copies, mais le film survit et devient culte.",
+        "importance": "Nosferatu établit l'iconographie du film de vampire et reste l'un des chefs-d'œuvre du cinéma muet.",
+        "question": "Quel roman Nosferatu adapte-t-il sans autorisation?",
+        "answer": "Dracula de Bram Stoker",
+        "source": "Claude"
+      },
+      "literature": {
+        "title": "La Divine Comédie de Dante Alighieri",
+        "date": "1308-1321",
+        "description": "Le poète florentin Dante Alighieri compose La Divine Comédie, poème épique en trois parties (Enfer, Purgatoire, Paradis) décrivant son voyage dans l'au-delà guidé par Virgile puis Béatrice. Écrite en toscan et non en latin, elle fonde la littérature italienne et influence toute la culture occidentale.",
+        "importance": "La Divine Comédie est considérée comme le plus grand chef-d'œuvre de la littérature italienne et mondiale.",
+        "question": "Quelles sont les trois parties de La Divine Comédie?",
+        "answer": "L'Enfer, le Purgatoire et le Paradis",
+        "source": "Claude"
+      },
+      "decouvertes_scientifiques": {
+        "title": "Al-Khwarizmi et l'invention de l'algèbre",
+        "date": "Vers 820 ap. J.-C.",
+        "description": "Le mathématicien persan Al-Khwarizmi publie Al-Kitab al-mukhtasar fi hisab al-jabr wal-muqabala (Abrégé du calcul par la restauration et la comparaison), qui donne son nom à l'algèbre. Son ouvrage introduit les méthodes de résolution des équations et les chiffres arabes en Occident.",
+        "importance": "Al-Khwarizmi est le père de l'algèbre et son nom latinisé donnera le mot algorithme.",
+        "question": "D'où vient le mot algèbre?",
+        "answer": "Du titre de l'ouvrage d'Al-Khwarizmi (al-jabr)",
+        "source": "Claude"
+      },
+      "nobel_prizes_physic": {
+        "title": "Prix Nobel de Physique 1907 - Albert A. Michelson",
+        "date": "10 décembre 1907",
+        "description": "Le physicien américain Albert A. Michelson reçoit le Prix Nobel pour ses instruments optiques de précision et ses mesures spectroscopiques et métrologiques. Son interféromètre permet de mesurer la vitesse de la lumière avec une précision inégalée. L'expérience de Michelson-Morley inspirera la relativité d'Einstein.",
+        "importance": "Michelson est le premier Américain à recevoir un Prix Nobel scientifique.",
+        "question": "Le nom et la nationalité du Prix Nobel de Physique de 1907 ?",
+        "answer": "Albert Abraham Michelson, Américain",
+        "source": "Claude"
+      },
+      "nobel_prizes_chemistry": {
+        "title": "Prix Nobel de Chimie 1907 - Eduard Buchner",
+        "date": "10 décembre 1907",
+        "description": "Le chimiste allemand Eduard Buchner reçoit le Prix Nobel pour sa découverte de la fermentation acellulaire. Il démontre que la fermentation alcoolique peut se produire sans cellules vivantes grâce à des enzymes extraites de la levure. Cette découverte fonde la biochimie moderne.",
+        "importance": "Buchner prouve que les processus vitaux sont des réactions chimiques, révolutionnant la biologie.",
+        "question": "Le nom et la nationalité du Prix Nobel de Chimie de 1907 ?",
+        "answer": "Eduard Buchner, Allemand",
+        "source": "Claude"
+      },
+      "nobel_prizes_peace": {
+        "title": "Prix Nobel de la Paix 1907 - Ernesto Moneta et Louis Renault",
+        "date": "10 décembre 1907",
+        "description": "Le prix est partagé entre l'Italien Ernesto Teodoro Moneta, journaliste et pacifiste, et le Français Louis Renault, juriste spécialiste du droit international. Moneta dirige la Société pour la paix et l'arbitrage international, tandis que Renault contribue aux Conférences de La Haye.",
+        "importance": "Ce prix reconnaît à la fois l'activisme pacifiste populaire et le développement du droit international.",
+        "question": "Le nom et la nationalité du Prix Nobel de la Paix de 1907 ?",
+        "answer": "Ernesto Teodoro Moneta et Louis Renault, Italien et Français",
+        "source": "Claude"
+      },
+      "nobel_prizes_literature": {
+        "title": "Prix Nobel de Littérature 1907 - Rudyard Kipling",
+        "date": "10 décembre 1907",
+        "description": "L'écrivain britannique Rudyard Kipling reçoit le Prix Nobel à 41 ans, devenant le plus jeune lauréat et le premier auteur de langue anglaise. Auteur du Livre de la jungle et de Kim, il est célébré pour son imagination et sa maîtrise narrative. Son œuvre reste controversée pour ses aspects impérialistes.",
+        "importance": "Kipling est le premier écrivain anglophone à recevoir le Nobel et reste l'un des plus jeunes lauréats.",
+        "question": "Le nom et la nationalité du Prix Nobel de Littérature de 1907 ?",
+        "answer": "Rudyard Kipling, Britannique",
+        "source": "Claude"
+      },
+      "music": {
+        "title": "Jean-Sébastien Bach, génie universel du baroque",
+        "date": "1685-1750",
+        "description": "Le compositeur allemand Jean-Sébastien Bach porte la musique baroque à son apogée avec ses fugues, cantates, passions et concertos. Organiste et maître de chapelle à Leipzig, il compose plus de 1000 œuvres dont le Clavier bien tempéré et la Messe en si mineur. Méconnu après sa mort, il est redécouvert au XIXe siècle.",
+        "importance": "Bach est considéré par beaucoup comme le plus grand compositeur de l'histoire de la musique occidentale.",
+        "question": "Dans quelle ville Bach a-t-il passé ses dernières années comme maître de chapelle?",
+        "answer": "Leipzig",
+        "source": "Claude"
+      }
+    },
+    "8": {
+      "world_history": {
+        "title": "Construction du Colisée de Rome",
+        "date": "70-80 ap. J.-C.",
+        "description": "L'empereur Vespasien inaugure la construction du Colisée (amphithéâtre Flavien) sur le site de l'ancien palais de Néron. Achevé par son fils Titus en 80, il peut accueillir 50 000 spectateurs pour des combats de gladiateurs et des chasses. Il reste le plus grand amphithéâtre jamais construit.",
+        "importance": "Le Colisée est le symbole de la puissance romaine et de l'ingénierie antique, classé au patrimoine mondial.",
+        "question": "Quel empereur a commencé la construction du Colisée?",
+        "answer": "Vespasien",
+        "source": "Claude"
+      },
+      "france_history": {
+        "title": "Construction de l'amphithéâtre de Nîmes",
+        "date": "Vers 90-100 ap. J.-C.",
+        "description": "L'amphithéâtre de Nîmes, l'un des mieux conservés du monde romain, est construit sous le règne de Domitien. Pouvant accueillir 24 000 spectateurs, il sert aux combats de gladiateurs et aux chasses. Contrairement au Colisée, il conserve sa structure complète aujourd'hui.",
+        "importance": "L'amphithéâtre de Nîmes témoigne de la romanisation avancée de la Gaule méridionale.",
+        "question": "Combien de spectateurs l'amphithéâtre de Nîmes pouvait-il accueillir?",
+        "answer": "24 000 spectateurs",
+        "source": "Claude"
+      },
+      "egypt_history": {
+        "title": "Destruction de la Bibliothèque d'Alexandrie",
+        "date": "Plusieurs épisodes (48 av. J.-C. - 642 ap. J.-C.)",
+        "description": "La Bibliothèque d'Alexandrie connaît plusieurs destructions partielles: l'incendie lors du siège de César en 48 av. J.-C., les conflits sous Aurélien en 270, et la fermeture définitive du Serapeum en 391. Sa disparition symbolise la fin du monde antique et la perte de savoirs inestimables.",
+        "importance": "La destruction de la Bibliothèque représente l'une des plus grandes pertes culturelles de l'histoire humaine.",
+        "question": "Quel célèbre général romain aurait accidentellement incendié une partie de la Bibliothèque?",
+        "answer": "Jules César",
+        "source": "Claude"
+      },
+      "rome_history": {
+        "title": "Éruption du Vésuve et destruction de Pompéi",
+        "date": "24 août 79 ap. J.-C.",
+        "description": "Le Vésuve entre en éruption, ensevelissant Pompéi, Herculanum et Stabies sous des mètres de cendres et de pierre ponce. Pline le Jeune décrit la catastrophe dans ses lettres à Tacite. Son oncle Pline l'Ancien meurt en tentant de porter secours aux victimes. Les villes restent enfouies jusqu'au XVIIIe siècle.",
+        "importance": "La destruction de Pompéi nous a paradoxalement légué un témoignage unique de la vie romaine quotidienne.",
+        "question": "Quel auteur romain célèbre est mort lors de l'éruption du Vésuve?",
+        "answer": "Pline l'Ancien",
+        "source": "Claude"
+      },
+      "countries_capitals": {
+        "title": "L'Arabie Saoudite et Riyad",
+        "date": "Capitale depuis 1932",
+        "description": "Riyad est la capitale et la plus grande ville d'Arabie Saoudite, située au cœur du désert du Nejd. Petite oasis au début du XXe siècle, elle devient capitale du royaume unifié par Ibn Saoud en 1932. Grâce au pétrole, elle s'est transformée en métropole moderne de plus de 7 millions d'habitants.",
+        "importance": "Riyad est le centre politique et économique de l'Arabie Saoudite, premier exportateur mondial de pétrole.",
+        "question": "Quelle est la capitale de l'Arabie Saoudite?",
+        "answer": "Riyad",
+        "source": "Claude"
+      },
+      "cinema": {
+        "title": "Le Cuirassé Potemkine de Sergueï Eisenstein",
+        "date": "21 décembre 1925",
+        "description": "Sergueï Eisenstein réalise Le Cuirassé Potemkine pour commémorer la révolution de 1905. La célèbre scène du massacre sur les escaliers d'Odessa révolutionne le montage cinématographique. Ce film de propagande soviétique est considéré comme l'un des plus influents de l'histoire du cinéma.",
+        "importance": "Le Cuirassé Potemkine établit les théories du montage d'Eisenstein qui influencent tout le cinéma moderne.",
+        "question": "Quelle scène célèbre du Cuirassé Potemkine a révolutionné le montage?",
+        "answer": "Le massacre sur les escaliers d'Odessa",
+        "source": "Claude"
+      },
+      "literature": {
+        "title": "Décaméron de Boccace",
+        "date": "1349-1353",
+        "description": "L'écrivain italien Giovanni Boccaccio compose le Décaméron, recueil de cent nouvelles racontées par dix jeunes gens fuyant la peste noire de Florence. Ces récits, souvent licencieux et satiriques, peignent la société médiévale avec réalisme et humour. L'œuvre influence toute la littérature européenne de la Renaissance.",
+        "importance": "Le Décaméron est un chef-d'œuvre fondateur de la prose narrative européenne et de la nouvelle comme genre.",
+        "question": "Combien de nouvelles compte le Décaméron?",
+        "answer": "Cent nouvelles",
+        "source": "Claude"
+      },
+      "decouvertes_scientifiques": {
+        "title": "Invention de l'imprimerie par Gutenberg",
+        "date": "Vers 1450",
+        "description": "L'Allemand Johannes Gutenberg met au point l'imprimerie à caractères mobiles métalliques à Mayence. Sa Bible à 42 lignes (1455) est le premier livre imprimé en Europe. Cette invention révolutionne la diffusion du savoir et prépare la Réforme protestante et la Renaissance.",
+        "importance": "L'imprimerie de Gutenberg est l'une des inventions les plus importantes de l'histoire humaine.",
+        "question": "Quel est le premier livre imprimé par Gutenberg?",
+        "answer": "La Bible à 42 lignes",
+        "source": "Claude"
+      },
+      "nobel_prizes_physic": {
+        "title": "Prix Nobel de Physique 1908 - Gabriel Lippmann",
+        "date": "10 décembre 1908",
+        "description": "Le physicien français Gabriel Lippmann reçoit le Prix Nobel pour sa méthode de reproduction des couleurs en photographie basée sur les interférences lumineuses. Cette technique, bien que peu pratique, produit des images couleur d'une fidélité remarquable sans utiliser de colorants.",
+        "importance": "Lippmann est le premier photographe à recevoir le Nobel pour ses travaux sur la photographie couleur.",
+        "question": "Le nom et la nationalité du Prix Nobel de Physique de 1908 ?",
+        "answer": "Gabriel Lippmann, Français",
+        "source": "Claude"
+      },
+      "nobel_prizes_chemistry": {
+        "title": "Prix Nobel de Chimie 1908 - Ernest Rutherford",
+        "date": "10 décembre 1908",
+        "description": "Le physicien néo-zélandais Ernest Rutherford reçoit le Prix Nobel de Chimie (et non de physique) pour ses recherches sur la désintégration des éléments radioactifs. Il identifie les rayons alpha et bêta et établit les bases de la physique nucléaire. Plus tard, il découvrira le noyau atomique.",
+        "importance": "Rutherford est le père de la physique nucléaire et découvrira ensuite le noyau atomique.",
+        "question": "Le nom et la nationalité du Prix Nobel de Chimie de 1908 ?",
+        "answer": "Ernest Rutherford, Britannique (né en Nouvelle-Zélande)",
+        "source": "Claude"
+      },
+      "nobel_prizes_peace": {
+        "title": "Prix Nobel de la Paix 1908 - Klas Pontus Arnoldson et Fredrik Bajer",
+        "date": "10 décembre 1908",
+        "description": "Le Suédois Klas Pontus Arnoldson et le Danois Fredrik Bajer partagent le Prix Nobel de la Paix. Arnoldson est un écrivain et parlementaire pacifiste, tandis que Bajer est le fondateur du Bureau international permanent de la Paix et militant pour la neutralité scandinave.",
+        "importance": "Ce prix récompense les efforts pacifistes scandinaves et l'organisation du mouvement pour la paix.",
+        "question": "Le nom et la nationalité du Prix Nobel de la Paix de 1908 ?",
+        "answer": "Klas Pontus Arnoldson et Fredrik Bajer, Suédois et Danois",
+        "source": "Claude"
+      },
+      "nobel_prizes_literature": {
+        "title": "Prix Nobel de Littérature 1908 - Rudolf Eucken",
+        "date": "10 décembre 1908",
+        "description": "Le philosophe allemand Rudolf Eucken reçoit le Prix Nobel de Littérature pour sa recherche de la vérité et sa philosophie idéaliste de la vie. Son œuvre prône l'élévation spirituelle face au matérialisme. Ce choix controversé récompense un philosophe plutôt qu'un écrivain de fiction.",
+        "importance": "Le prix à Eucken montre que le Nobel peut récompenser la pensée philosophique autant que la fiction.",
+        "question": "Le nom et la nationalité du Prix Nobel de Littérature de 1908 ?",
+        "answer": "Rudolf Eucken, Allemand",
+        "source": "Claude"
+      },
+      "music": {
+        "title": "Wolfgang Amadeus Mozart, prodige et génie",
+        "date": "1756-1791",
+        "description": "Wolfgang Amadeus Mozart, enfant prodige autrichien, compose dès l'âge de 5 ans et produit plus de 600 œuvres en 35 ans de vie. Ses opéras (Les Noces de Figaro, Don Giovanni, La Flûte enchantée), symphonies et concertos atteignent une perfection formelle inégalée. Il meurt dans la pauvreté à Vienne.",
+        "importance": "Mozart est l'incarnation du génie musical et ses œuvres sont jouées quotidiennement dans le monde entier.",
+        "question": "À quel âge Mozart a-t-il commencé à composer?",
+        "answer": "5 ans",
+        "source": "Claude"
+      }
+    },
+    "9": {
+      "world_history": {
+        "title": "Inauguration du Colisée par Titus",
+        "date": "80 ap. J.-C.",
+        "description": "L'empereur Titus inaugure le Colisée par cent jours de jeux comprenant combats de gladiateurs, chasses et naumachies (batailles navales). Selon les sources, 9 000 animaux sont tués durant les festivités. L'amphithéâtre peut être couvert d'un velum pour protéger les spectateurs du soleil.",
+        "importance": "L'inauguration du Colisée marque l'apogée des spectacles romains et de l'ingénierie antique.",
+        "question": "Combien de jours durèrent les jeux inauguraux du Colisée?",
+        "answer": "Cent jours",
+        "source": "Claude"
+      },
+      "france_history": {
+        "title": "Construction du Pont du Gard",
+        "date": "Vers 50 ap. J.-C.",
+        "description": "Le Pont du Gard, partie de l'aqueduc de Nîmes, est construit pour alimenter la ville en eau depuis la source d'Eure à Uzès. Haut de 49 mètres avec trois niveaux d'arches, c'est le plus haut pont-aqueduc romain conservé. Il transporte 20 000 m³ d'eau par jour sur 50 kilomètres.",
+        "importance": "Le Pont du Gard est un chef-d'œuvre de l'ingénierie romaine et un symbole de la Gaule romaine.",
+        "question": "Quelle était la fonction du Pont du Gard?",
+        "answer": "Acheminer l'eau vers Nîmes (aqueduc)",
+        "source": "Claude"
+      },
+      "egypt_history": {
+        "title": "Fondation d'Alexandrie par Alexandre le Grand",
+        "date": "331 av. J.-C.",
+        "description": "Alexandre le Grand fonde Alexandrie sur la côte méditerranéenne de l'Égypte, qui deviendra l'une des plus grandes villes du monde antique. Planifiée par l'architecte Dinocrate, elle sera la capitale de l'Égypte ptolémaïque pendant trois siècles. Son phare et sa bibliothèque en feront un centre culturel majeur.",
+        "importance": "Alexandrie devient la capitale intellectuelle du monde antique et un carrefour entre Orient et Occident.",
+        "question": "Qui a fondé la ville d'Alexandrie?",
+        "answer": "Alexandre le Grand",
+        "source": "Claude"
+      },
+      "rome_history": {
+        "title": "Règne de Trajan, l'optimus princeps",
+        "date": "98-117 ap. J.-C.",
+        "description": "L'empereur Trajan porte l'Empire romain à son extension maximale avec la conquête de la Dacie et de la Mésopotamie. Surnommé optimus princeps (le meilleur des princes) par le Sénat, il construit le forum de Trajan et sa célèbre colonne. Son règne est considéré comme l'apogée de l'Empire.",
+        "importance": "Trajan est considéré comme l'un des meilleurs empereurs romains et porte l'Empire à son apogée territorial.",
+        "question": "Quel surnom le Sénat a-t-il donné à Trajan?",
+        "answer": "Optimus princeps (le meilleur des princes)",
+        "source": "Claude"
+      },
+      "countries_capitals": {
+        "title": "L'Argentine et Buenos Aires",
+        "date": "Capitale fédérale depuis 1880",
+        "description": "Buenos Aires est la capitale et la plus grande ville d'Argentine, située sur la rive occidentale du Río de la Plata. Fondée deux fois par les Espagnols (1536 et 1580), elle devient la ville la plus européenne d'Amérique du Sud. Son architecture, son tango et sa vie culturelle en font une métropole unique.",
+        "importance": "Buenos Aires est le centre économique et culturel de l'Argentine et la deuxième plus grande métropole d'Amérique du Sud.",
+        "question": "Quelle est la capitale de l'Argentine?",
+        "answer": "Buenos Aires",
+        "source": "Claude"
+      },
+      "cinema": {
+        "title": "Metropolis de Fritz Lang",
+        "date": "10 janvier 1927",
+        "description": "Fritz Lang réalise Metropolis, film de science-fiction expressionniste montrant une ville futuriste divisée entre maîtres et travailleurs esclaves. Le robot Maria est l'une des premières androïdes du cinéma. Ce film allemand, le plus coûteux de son époque, influence toute la science-fiction visuelle.",
+        "importance": "Metropolis établit l'esthétique de la science-fiction et reste une œuvre majeure du cinéma mondial.",
+        "question": "Qui a réalisé Metropolis?",
+        "answer": "Fritz Lang",
+        "source": "Claude"
+      },
+      "literature": {
+        "title": "Les Contes de Canterbury de Geoffrey Chaucer",
+        "date": "1387-1400",
+        "description": "L'écrivain anglais Geoffrey Chaucer compose Les Contes de Canterbury, recueil de récits racontés par des pèlerins en route vers la cathédrale de Canterbury. Écrits en moyen anglais, ces contes variés (du chevaleresque au grivois) fondent la littérature anglaise. L'œuvre reste inachevée à la mort de l'auteur.",
+        "importance": "Chaucer est le père de la littérature anglaise et Les Contes sont l'œuvre fondatrice de la langue anglaise littéraire.",
+        "question": "Vers quelle destination se rendent les pèlerins des Contes de Canterbury?",
+        "answer": "La cathédrale de Canterbury",
+        "source": "Claude"
+      },
+      "decouvertes_scientifiques": {
+        "title": "Copernic et la révolution héliocentrique",
+        "date": "1543",
+        "description": "L'astronome polonais Nicolas Copernic publie De revolutionibus orbium coelestium, proposant que la Terre tourne autour du Soleil et non l'inverse. Cette théorie héliocentrique bouleverse la vision du cosmos héritée de Ptolémée. Copernic meurt l'année de la publication, évitant les controverses qui suivront.",
+        "importance": "La révolution copernicienne est le début de la science moderne et de notre compréhension de l'univers.",
+        "question": "Quel système astronomique Copernic a-t-il proposé?",
+        "answer": "Le système héliocentrique (le Soleil au centre)",
+        "source": "Claude"
+      },
+      "nobel_prizes_physic": {
+        "title": "Prix Nobel de Physique 1909 - Guglielmo Marconi et Karl Ferdinand Braun",
+        "date": "10 décembre 1909",
+        "description": "L'Italien Guglielmo Marconi et l'Allemand Karl Ferdinand Braun partagent le Prix Nobel pour leurs contributions au développement de la télégraphie sans fil. Marconi réalise la première transmission transatlantique en 1901, tandis que Braun améliore les systèmes de transmission.",
+        "importance": "Leurs travaux fondent les télécommunications modernes et préparent l'ère de la radio et de la télévision.",
+        "question": "Le nom et la nationalité du Prix Nobel de Physique de 1909 ?",
+        "answer": "Guglielmo Marconi et Karl Ferdinand Braun, Italien et Allemand",
+        "source": "Claude"
+      },
+      "nobel_prizes_chemistry": {
+        "title": "Prix Nobel de Chimie 1909 - Wilhelm Ostwald",
+        "date": "10 décembre 1909",
+        "description": "Le chimiste allemand d'origine lettone Wilhelm Ostwald reçoit le Prix Nobel pour ses travaux sur la catalyse, l'équilibre chimique et les vitesses de réaction. Il établit la chimie physique comme discipline distincte et développe des méthodes industrielles pour produire l'acide nitrique.",
+        "importance": "Ostwald est l'un des fondateurs de la chimie physique moderne et ses travaux ont des applications industrielles majeures.",
+        "question": "Le nom et la nationalité du Prix Nobel de Chimie de 1909 ?",
+        "answer": "Wilhelm Ostwald, Allemand (né en Lettonie)",
+        "source": "Claude"
+      },
+      "nobel_prizes_peace": {
+        "title": "Prix Nobel de la Paix 1909 - Auguste Beernaert et Paul d'Estournelles de Constant",
+        "date": "10 décembre 1909",
+        "description": "Le Belge Auguste Beernaert et le Français Paul d'Estournelles de Constant partagent le Prix Nobel de la Paix. Beernaert, ancien Premier ministre belge, œuvre pour la paix internationale, tandis que d'Estournelles fonde le Groupe parlementaire français d'arbitrage international.",
+        "importance": "Ce prix récompense les efforts diplomatiques franco-belges pour l'arbitrage et la paix en Europe.",
+        "question": "Le nom et la nationalité du Prix Nobel de la Paix de 1909 ?",
+        "answer": "Auguste Beernaert et Paul Henri d'Estournelles de Constant, Belge et Français",
+        "source": "Claude"
+      },
+      "nobel_prizes_literature": {
+        "title": "Prix Nobel de Littérature 1909 - Selma Lagerlöf",
+        "date": "10 décembre 1909",
+        "description": "L'écrivaine suédoise Selma Lagerlöf devient la première femme à recevoir le Prix Nobel de Littérature. Elle est récompensée pour l'idéalisme et l'imagination qui caractérisent son œuvre, notamment Le Merveilleux Voyage de Nils Holgersson, devenu un classique de la littérature jeunesse.",
+        "importance": "Lagerlöf est la première femme Nobel de Littérature et l'une des plus grandes écrivaines suédoises.",
+        "question": "Le nom et la nationalité du Prix Nobel de Littérature de 1909 ?",
+        "answer": "Selma Lagerlöf, Suédoise",
+        "source": "Claude"
+      },
+      "music": {
+        "title": "Ludwig van Beethoven, le titan de la musique",
+        "date": "1770-1827",
+        "description": "Le compositeur allemand Ludwig van Beethoven révolutionne la musique occidentale en la faisant passer du classicisme au romantisme. Malgré sa surdité progressive, il compose neuf symphonies monumentales, dont la Neuvième avec son Ode à la joie. Son œuvre exprime une puissance émotionnelle sans précédent.",
+        "importance": "Beethoven est le pont entre le classicisme et le romantisme et l'un des compositeurs les plus influents de l'histoire.",
+        "question": "Quel handicap Beethoven a-t-il dû surmonter pour composer?",
+        "answer": "La surdité",
+        "source": "Claude"
+      }
+    }
+  },
+  "last_updated": "2025-12-07T12:00:00.000Z",
+  "version": "2.0",
+  "current_index": 2
+}

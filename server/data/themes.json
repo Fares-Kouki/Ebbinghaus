@@ -1,0 +1,97 @@
+{
+  "themes": [
+    {
+      "id": "world_history",
+      "name": "🌍 Histoire Mondiale",
+      "description": "Événements historiques majeurs du monde",
+      "prompt_template": "Un fait historique mondial important qui s'est passé en l'an {year} ou autour de cette période",
+      "active": true
+    },
+    {
+      "id": "france_history",
+      "name": "🇫🇷 Histoire de France",
+      "description": "Événements de l'histoire française",
+      "prompt_template": "Un fait historique français important qui s'est passé en l'an {year} ou autour de cette période",
+      "active": true
+    },
+    {
+      "id": "egypt_history",
+      "name": "🏺 Histoire d'Égypte",
+      "description": "Histoire de l'Égypte antique et moderne",
+      "prompt_template": "Un fait historique de l'Égypte antique ou moderne important qui s'est passé en l'an {year} ou autour de cette période",
+      "active": true
+    },
+    {
+      "id": "rome_history",
+      "name": "🏛️ Histoire de Rome",
+      "description": "Histoire de la Rome antique",
+      "prompt_template": "Un fait historique de Rome antique important qui s'est passé en l'an {year} ou autour de cette période",
+      "active": true
+    },
+    {
+      "id": "countries_capitals",
+      "name": "🗺️ Pays & Capitales",
+      "description": "Géographie mondiale - pays et capitales",
+      "prompt_template": "Un pays et sa capitale aujourd'hui",
+      "active": true
+    },
+    {
+      "id": "cinema",
+      "name": "🎬 Cinéma",
+      "description": "Histoire du cinéma et du 7ème art",
+      "prompt_template": "Un fait important de l'histoire du cinéma",
+      "active": true
+    },
+    {
+      "id": "literature",
+      "name": "📚 Littérature",
+      "description": "Histoire de la littérature mondiale",
+      "prompt_template": "Un fait important de l'histoire de la littérature",
+      "active": true
+    },
+    {
+      "id": "decouvertes_scientifiques",
+      "name": "🔬 Découvertes scientifiques",
+      "description": "Découvertes scientifiques",
+      "prompt_template": "Un fait sur une découverte scientifique / médicale majeure",
+      "active": true
+    },
+    {
+      "id": "nobel_prizes_physic",
+      "name": "🏆 Prix Nobel de Physique",
+      "description": "Prix Nobel de Physique",
+      "prompt_template": "Un Prix Nobel de Physique dans l'ordre chronologique",
+      "active": true
+    },
+    {
+      "id": "nobel_prizes_chemistry",
+      "name": "🏆 Prix Nobel Chimie",
+      "description": "Prix Nobel de Chimie",
+      "prompt_template": "Un Prix Nobel de Chimie dans l'ordre chronologique",
+      "active": true
+    },
+    {
+      "id": "nobel_prizes_peace",
+      "name": "🏆 Prix Nobel Paix",
+      "description": "Prix Nobel de la Paix",
+      "prompt_template": "Un Prix Nobel de la Paix dans l'ordre chronologique",
+      "active": true
+    },
+    {
+      "id": "nobel_prizes_literature",
+      "name": "🏆 Prix Nobel Litterature",
+      "description": "Prix Nobel de Litterature",
+      "prompt_template": "Un Prix Nobel de Litterature dans l'ordre chronologique",
+      "active": true
+    },
+    {
+      "id": "music",
+      "name": "Musique",
+      "description": "Histoire de la Musique ( Chanteurs, Grammy Awards, Faits Notables )",
+      "prompt_template": "Un fait important lié au monde de la musique, des chanteurs ou un nouveau Grammy Awards.",
+      "active": true
+    }
+  ],
+  "version": "1.0",
+  "last_updated": "2025-12-06T00:07:58.724Z"
+}
