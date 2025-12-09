@@ -196,11 +196,32 @@ const loadReviewQuestions = async () => {
   // Obtenir les index de révision selon Ebbinghaus (1, 7, 30, 180, 365 jours avant)
   const reviewIndexes = dateManager.getEbbinghausReviewIndexes(currentDayIndex.value);
 
-  // Charger les questions de révision basées sur les index
-  const questions = dataStorage.getEbbinghausReviewDataByIndex(currentDayIndex.value, reviewIndexes);
+  // Charger les questions de révision directement depuis le serveur
+  try {
+    const response = await $fetch('/api/get-review-content', {
+      method: 'POST',
+      body: {
+        currentIndex: currentDayIndex.value,
+        reviewIndexes: reviewIndexes
+      }
+    });
 
-  // Mélanger les questions
-  reviewQuestions.value = shuffleArray([...questions]);
+    if (response.success && response.questions) {
+      // Mélanger les questions
+      reviewQuestions.value = shuffleArray([...response.questions]);
+      console.log(`📚 [loadReviewQuestions] ${response.questions.length} questions chargées depuis le serveur`);
+    } else {
+      // Fallback sur localStorage si erreur serveur
+      const questions = dataStorage.getEbbinghausReviewDataByIndex(currentDayIndex.value, reviewIndexes);
+      reviewQuestions.value = shuffleArray([...questions]);
+      console.log(`📚 [loadReviewQuestions] ${questions.length} questions chargées depuis localStorage (fallback)`);
+    }
+  } catch (error) {
+    console.error('❌ [loadReviewQuestions] Erreur serveur, utilisation localStorage:', error);
+    const questions = dataStorage.getEbbinghausReviewDataByIndex(currentDayIndex.value, reviewIndexes);
+    reviewQuestions.value = shuffleArray([...questions]);
+  }
+
   currentQuestionIndex.value = 0;
   showQuizAnswer.value = false;
   score.value = 0;
