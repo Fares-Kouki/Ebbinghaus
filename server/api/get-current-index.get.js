@@ -3,8 +3,8 @@ import path from 'path';
 
 const CACHE_FILE_PATH = path.join(process.cwd(), 'server/data/content-cache.json');
 
-// Date de référence : 8 décembre 2025 = Jour 1
-const REFERENCE_DATE = new Date('2025-12-08T00:00:00');
+// Date de référence : 9 décembre 2025 = Jour 1
+const REFERENCE_DATE = new Date('2025-12-09T00:00:00');
 
 function calculateCurrentDayIndex() {
   const today = new Date();
